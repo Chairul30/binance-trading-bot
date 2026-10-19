@@ -1,0 +1,10 @@
+# Configuration for git attributes
+# Generated on 2026-11-15
+app/*.tsx linguist-detectable
+*.min.css linguist-generated
+*.yaml linguist-detectable=false
+go.sum linguist-generated
+app/**/*.tsx linguist-detectable
+public/index.html linguist-vendored
+
+public/**/*.html linguist-vendored
